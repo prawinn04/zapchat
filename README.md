@@ -178,7 +178,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/zapchat/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/prawinn04/zapchat/issues) on GitHub.
 
 ---
 
